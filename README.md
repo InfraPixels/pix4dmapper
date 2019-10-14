@@ -17,3 +17,8 @@ Go to pix4d website and download the `.deb` package.
 > ./run.sh
 
 You can call `bash`, if you like, with `./run.sh bash`.
+
+---
+
+* Use `xhost +` on your machine to allow Docker to display
+  things on your local Xorg client.

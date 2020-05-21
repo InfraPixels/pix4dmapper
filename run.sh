@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 if [ -z $1 ];then
     cmd="/opt/pix4dmapper/bin/pix4dmapper"
